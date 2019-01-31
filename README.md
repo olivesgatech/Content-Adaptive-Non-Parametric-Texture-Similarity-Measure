@@ -16,6 +16,8 @@ ArXiv link: https://arxiv.org/pdf/1811.01980.pdf
   organization={IEEE}
 }
 
+![ExampleRetrieval](url) https://github.com/olivesgatech/Content-Adaptive-Non-Parametric-Texture-Similarity-Measure/blob/master/Figures/Figure1.png
+
 ## How to run the code
 Run the function "Demo_Retrieval.m" to see a live demo of retreival of seismic images (40 images). 
 
