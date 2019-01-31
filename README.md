@@ -23,7 +23,7 @@ ArXiv link: https://arxiv.org/pdf/1811.01980.pdf
 ## How to run the code
 Run the function "Demo_Retrieval.m" to see a live demo of retreival of seismic images (40 images). 
 
-Use the function "TextureSimilarity(img1,img2)" to measure the similarity of two texture images using the proposed measure
+Use the function `TextureSimilarity(img1,img2)` to measure the similarity of two texture images using the proposed measure
 
 ## To report any bugs 
 Contact the Author at: motaz@gatech.edu
