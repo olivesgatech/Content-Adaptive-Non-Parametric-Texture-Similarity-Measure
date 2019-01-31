@@ -7,6 +7,7 @@ Link: https://ieeexplore.ieee.org/abstract/document/7813338
 
 ArXiv link: https://arxiv.org/pdf/1811.01980.pdf
 
+```
 @inproceedings{alfarraj2016content,
   title={Content-adaptive non-parametric texture similarity measure},
   author={Alfarraj, Motaz and Alaudah, Yazeed and AlRegib, Ghassan},
@@ -15,8 +16,9 @@ ArXiv link: https://arxiv.org/pdf/1811.01980.pdf
   year={2016},
   organization={IEEE}
 }
+```
 
-![ExampleRetrieval](url) https://github.com/olivesgatech/Content-Adaptive-Non-Parametric-Texture-Similarity-Measure/blob/master/Figures/Figure1.png
+![ExampleRetrieval](https://github.com/olivesgatech/Content-Adaptive-Non-Parametric-Texture-Similarity-Measure/blob/master/Figures/Figure1.png?raw=true)
 
 ## How to run the code
 Run the function "Demo_Retrieval.m" to see a live demo of retreival of seismic images (40 images). 
